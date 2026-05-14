@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-
     "module": "NodeNext",
     "moduleResolution": "nodenext",
 
@@ -17,9 +16,7 @@
 
     "types": ["node"],
 
-    "resolveJsonModule": true,
-
-    "ignoreDeprecations": "6.0"
+    "resolveJsonModule": true
   },
 
   "include": ["src"],
